@@ -1,0 +1,5 @@
+Parrot Id = 123 Total_Number = 45 Type of owl = xyz1 Found in = America1 Imitate like = Human1
+Parrot Id = 124 Total_Number = 50 Type of owl = xyz2 Found in = America2 Imitate like = Human2
+Parrot Id = 125 Total_Number = 60 Type of owl = xyz3 Found in = America3 Imitate like = Human3
+Owl Id = 456 Total_Number = 70 Type of owl = ABC1 Found in = Poland Eye shight is = Very high
+Owl Id = 457 Total_Number = 80 Type of owl = abc2 Found in = Green land Eye shight is = Low
